@@ -70,3 +70,5 @@ dist
 .ipynb_checkpoints/
 *.swp
 *.pred
+
+lxmls-env/
